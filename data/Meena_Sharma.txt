@@ -1,0 +1,8 @@
+Faculty Name: Dr. Meena Sharma
+Department: Computer Science
+Designation: Associate Professor
+Research Areas: Data Science, Big Data Analytics
+Projects: Data Mining
+Publications: 20
+Email: meena@college.edu
+Available for Collaboration: Yes

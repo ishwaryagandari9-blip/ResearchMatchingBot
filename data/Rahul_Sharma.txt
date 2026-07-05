@@ -1,0 +1,8 @@
+Faculty Name: Dr. Rahul Sharma
+Department: Computer Science
+Designation: Professor
+Research Areas: Machine Learning, Deep Learning, Computer Vision
+Projects: AI for Healthcare
+Publications: 25
+Email: rahul@college.edu
+Available for Collaboration: Yes

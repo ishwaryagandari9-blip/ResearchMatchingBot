@@ -1,0 +1,8 @@
+Faculty Name: Dr. Priya Rao
+Department: Computer Science
+Designation: Associate Professor
+Research Areas: Natural Language Processing, Large Language Models, AI
+Projects: Chatbot Development
+Publications: 18
+Email: priya@college.edu
+Available for Collaboration: Yes

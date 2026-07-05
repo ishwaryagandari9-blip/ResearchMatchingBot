@@ -1,0 +1,8 @@
+Faculty Name: Dr. Anita Reddy
+Department: Computer Science
+Designation: Professor
+Research Areas: Internet of Things, Embedded Systems
+Projects: Smart Agriculture
+Publications: 22
+Email: anita@college.edu
+Available for Collaboration: Yes

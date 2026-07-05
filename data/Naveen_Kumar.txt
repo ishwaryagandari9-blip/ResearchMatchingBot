@@ -1,0 +1,8 @@
+Faculty Name: Dr. Naveen Kumar
+Department: Computer Science
+Designation: Assistant Professor
+Research Areas: Cyber Security, Network Security
+Projects: Secure Cloud Systems
+Publications: 15
+Email: naveen@college.edu
+Available for Collaboration: Yes
